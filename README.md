@@ -13,3 +13,9 @@ Installation
 3. Log in as administrator in Drupal
 4. Enable the Mailjet settings module on the Administration » Modules page
 5. Fill in required settings on the Administration » Configuration » System » Mailjet settings page
+
+
+License
+-------
+
+drupal-mailjet-module is licensed under the MIT License. (See [LICENSE](LICENSE.md))
