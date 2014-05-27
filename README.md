@@ -1,4 +1,4 @@
-Mailjet for Drupal
+[API v1] Mailjet for Drupal
 =====================
 
 Mailjet's Drupal plugin provides complete control of Email settings with Drupal.
